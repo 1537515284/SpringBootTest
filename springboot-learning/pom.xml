@@ -6,8 +6,11 @@
 
     <groupId>com.ls</groupId>
     <artifactId>springboot-learning</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-
+    <modules>
+        <module>test-controller</module>
+    </modules>
 
 
 </project>
